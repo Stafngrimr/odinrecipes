@@ -1,0 +1,22 @@
+/* This is the stylesheet for the main learning index page -- the one about the
+recipes */
+
+
+body {
+  background-color: #033642;
+  color: white;
+  font-family: "Courier New", monospace;
+}
+
+a {
+  color: white;
+}
+
+h1 {
+  font-family: cursive;
+}
+
+h1, img {
+  padding: 10px;
+  border: 2px white dashed;
+}
